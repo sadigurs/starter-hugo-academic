@@ -1,0 +1,4 @@
+[submodule "sadigurs.github.io"]
+	path = sadigurs.github.io
+	url = https://github.com/sadigurs/sadigurs.github.io
+	branch = main
